@@ -66,11 +66,13 @@ a {text-decoration: none;}
     line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #4d5ae5;
-    color: #fff;}
+    color: #fff;
+    cursor: pointer;
+}
 
         .order-service-button:hover,
         .order-service-button:focus {
-            background-color: #4d5ae5;
+            background-color: #404BBF;
             color: #fff;
         }
 
